@@ -31,7 +31,7 @@ int size_char()
 
 int prec(float base)
 {
-	float x0 = 1;
+	float x0 = 1; //try 9
 	float x= 1;
 	float d = 1;
 	
