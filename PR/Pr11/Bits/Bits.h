@@ -20,7 +20,7 @@ union Word
 {
     unsigned int _k;
     float _x;
-    unsigned __int8 _ch[4];
+    uint8_t _ch[4];
 };
 
 void show(const Word w)
