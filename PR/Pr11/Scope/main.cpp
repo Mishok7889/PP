@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include "Local.h"
 #include "Global.h"
 #include "Static.h"
